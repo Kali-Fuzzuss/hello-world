@@ -1,6 +1,10 @@
 # hello-world
 Time-honoured tradition!
-I
+IFF
+at first I don't succeed
+I try try again
+If at last I succeed
+I never try again
 REM   On line three I have followed
 REM   instructions under item 3
 REM   of "Make and Commit Changes"
